@@ -17,7 +17,8 @@ export default defineConfig({
         items: [
           { text: '关于本站', link: '/开始/关于本站' },
           { text: '外卖红包', link: '/开始/外卖红包' },
-          { text: '鸣谢', link: '/开始/鸣谢' }, 
+          { text: '油猴脚本', link: '/开始/油猴脚本' },
+
           { text: '日志', link: '/开始/日志' },
           { text: 'API', link: '/开始/API' }
         ],

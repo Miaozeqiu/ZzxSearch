@@ -1,6 +1,9 @@
 # API
 
-`/get_answer_by_content` 为本站的API路由,只接受Post请求
+`/get_answer_by_content` 为本站的API路由,只接受Post请求 
+
+对`OCS`脚本的支持还在开发，如果想要在`在浙学`网页端直接查看题目可以查看我们网站针对该平台开发的[脚本](油猴脚本.md)
+
 发送的数据示例：
 
 ```json
