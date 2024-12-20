@@ -1,5 +1,15 @@
 {
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@supabase/supabase-js": "^2.46.1",
+    "rsshub": "^1.0.0-master.00d7e3e"
+  },
+  "devDependencies": {
+    "vitepress": "^1.4.1"
+  },
   "scripts": {
-    "build": "vitepress build"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
