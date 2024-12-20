@@ -6,20 +6,20 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     nav: [
-      { text: '开始', link: '/开始/关于本站' },
-      { text: '日志', link: '/开始/日志' }
+      { text: 'Home', link: '/home/about' },
+      { text: 'Log', link: '/home/log' }
     ],
 
     sidebar: [
       {
-        text: '开始',
+        text: 'Home',
         items: [
-          { text: '关于本站', link: '/开始/关于本站' },
-          { text: '外卖红包', link: '/开始/外卖红包' },
-          { text: '网页插件', link: '/开始/网页插件' },
-          { text: '私有题库', link: '/开始/私有题库' },
-          { text: '日志', link: '/开始/日志' },
-          { text: 'API', link: '/开始/API' }
+          { text: '关于', link: '/home/about' },
+          { text: '外卖红包', link: '/home/takeout-red-envelopes' },
+          { text: '网页插件', link: '/home/web-plugin' },
+          { text: '私人题库', link: '/home/private-question-bank' },
+          { text: '日志', link: '/home/log' },
+          { text: 'API', link: '/home/api' }
         ]
       }
     ],

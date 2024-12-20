@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /开始/关于本站
+      link: /home/about
     - theme: alt
       text: 日志
-      link: /开始/日志
+      link: /home/log
 
 features:
   - title: 💰完全免费
