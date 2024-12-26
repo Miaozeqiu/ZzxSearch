@@ -8,8 +8,8 @@ hero:
   tagline: 最好用的在浙学网课助手
   actions:
     - theme: brand
-      text: 开始
-      link: /home/about
+      text: 开始使用
+      link: /home/web-plugin.md#安装方法
     - theme: alt
       text: 日志
       link: /home/log
@@ -19,7 +19,7 @@ features:
     details: 题库搜索，网页脚本完全免费
   - title: 🔐安全稳定
     details: 网站不用登录,随开随用
-  - title: ⏩更新迅速
-    details: 我们会定期修复bug,更新功能
+  - title: ⏩一键刷课
+    details: 自动完成视频播放，完成课件
 ---
 

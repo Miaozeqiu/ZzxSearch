@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: '关于', link: '/home/about' },
+          { text: '关于我们', link: '/home/about' },
           { text: '网页插件', link: '/home/web-plugin' },
           { text: '私人题库', link: '/home/private-question-bank' },
           { text: '日志', link: '/home/log' },
