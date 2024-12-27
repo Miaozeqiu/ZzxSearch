@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "在浙学网课助手",
+  title: "在浙学网课助手|题库",
   description: "A VitePress Site",
   themeConfig: {
     nav: [
@@ -26,7 +26,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Miaozeqiu' }
+      { icon: 'github', link: 'https://github.com/Miaozeqiu/ZjoocEasy/' }
     ]
   },
   cleanUrls: true  // 开启 cleanUrls 功能
