@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "在浙学网课助手"
+  name: "在浙学网课助手|题库"
   text: "使用文档"
   tagline: 最好用的在浙学网课助手
   actions:
     - theme: brand
       text: 开始使用
-      link: /home/web-plugin.md#安装方法
+      link: /home/about#✨apps
     - theme: alt
       text: 日志
       link: /home/log
