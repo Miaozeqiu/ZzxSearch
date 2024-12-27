@@ -10,7 +10,7 @@
 
 > 在浙学平台的网页插件|答案显示|一键刷课|解除粘贴限制
 
-<img src="https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png" width="40" height="40" /> 
+<a href="https://greasyfork.org/zh-CN/scripts/520141"><img src="https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png" width="40" height="40" /></a> 
 
 <div style="display: flex; justify-content: flex-start; justify-content: center; margin-top: 5px" >
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=red&label=%E6%80%BB%E5%85%B1%E5%AE%89%E8%A3%85&query=$.total_installs&url=https://greasyfork.org/scripts/520141.json" style="margin:2px"/> 
 
 </div>
-<img src="https://scriptcat.org/assets/logo.png" width="45" height="45" style="margin-top:15px"/> 
+<a href="https://scriptcat.org/zh-CN/script-show-page/2522"><img src="https://scriptcat.org/assets/logo.png" width="45" height="45" style="margin-top:15px"/></a> 
 <div style="display: flex; justify-content: flex-start; justify-content: center; margin-top: 0px" >
 <img src="https://img.shields.io/badge/dynamic/xml?style=flat-square&color=orange&label=%E4%BB%8A%E6%97%A5%E5%AE%89%E8%A3%85&url=https%3A%2F%2Fscriptcat.org%2Fzh-CN%2Fscript-show-page%2F2522&query=/html/body/div[1]/main/div/div[2]/div/div[3]/div/div[1]/div/span[2]" style="margin:2px"/> 
 
