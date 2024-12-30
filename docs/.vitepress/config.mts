@@ -5,6 +5,7 @@ export default defineConfig({
   title: "在浙学网课助手|题库",
   description: "A VitePress Site",
   themeConfig: {
+    logo:"https://zzx.xnj.yanhuoyun.cn/%E5%9C%A8%E6%B5%99%E5%AD%A6%E5%9B%BE%E6%A0%87.png",
     nav: [
       { text: '首页', link: '/home/about' },
       { text: '日志', link: '/home/log' }
@@ -14,7 +15,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: '关于我们', link: '/home/about' },
+          { text: '首页', link: '/home/about' },
           { text: '网页插件', link: '/home/web-plugin' },
           { text: '常见问题', link: '/home/frequently-asked-questions'},
           { text: '私人题库', link: '/home/private-question-bank' },

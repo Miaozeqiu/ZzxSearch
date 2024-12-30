@@ -1,10 +1,12 @@
 <div align="center">
+  
+<img src="https://zzx.xnj.yanhuoyun.cn/%E5%9C%A8%E6%B5%99%E5%AD%A6%E5%9B%BE%E6%A0%87.png" width="80" height="80" /> 
 
-# 在浙学网课助手
+# ZjoocEazy|在浙学网课助手 ![GitHub Repo stars](https://img.shields.io/github/stars/Miaozeqiu/ZjoocEasy)
 
 > 在浙学平台的网页插件|答案显示|一键刷课|解除粘贴限制
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Miaozeqiu/ZjoocEasy)
+
 
 <a href='https://greasyfork.org/zh-CN/scripts/520141-%E5%9C%A8%E6%B5%99%E5%AD%A6%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B-%E5%8E%9F%E5%9C%A8%E6%B5%99%E5%AD%A6%E9%A2%98%E5%BA%93%E6%90%9C%E7%B4%A2'><img src="https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png" width="40" height="40" /></a> 
 
