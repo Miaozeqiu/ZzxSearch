@@ -4,13 +4,27 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "在浙学网课助手|题库",
   description: "A VitePress Site",
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image/svg",
+        href: "https://zzx.xnj.yanhuoyun.cn/%E5%9C%A8%E6%B5%99%E5%AD%A6%E5%9B%BE%E6%A0%87.png",
+      },
+    ],
+  ],
+
   themeConfig: {
     logo:"https://zzx.xnj.yanhuoyun.cn/%E5%9C%A8%E6%B5%99%E5%AD%A6%E5%9B%BE%E6%A0%87.png",
     nav: [
       { text: '首页', link: '/home/about' },
       { text: '日志', link: '/home/log' }
     ],
-
+    footer: {
+      message: "",
+      copyright: "Copyright © 2024 邱嘉诚 在浙学网课助手|题库",
+    },
     sidebar: [
       {
         text: '目录',
